@@ -1,38 +1,38 @@
 {
     "bot": {
-        "owner": "796263552771817472",
-        "token": "TOKEN",
-        "prefix": ".",
-        "BotStatus": "BoranGkdn was here ❤️",
-        "BotFooter": "BoranGkdn was here ❤️",
-        "cooldown": 8
+        "owner": "794579109392678932",
+        "token": "OTg2NTY5NjUzMzM1NzY5MTA4.G7B1nQ.iQfDfX2UF-D9v2f4q6-BYUgQs0bgiL5d8ZzCd0",
+        "prefix": "+",
+        "BotStatus": "Minecraft Türkiye ❤️",
+        "BotFooter": "Minecraft Türkiye ❤️",
+        "cooldown": 5
     },
     "penals": {
         "ban": {
-            "staff": "BAN YETKILISI ID",
-            "log": "BAN ",
-            "limit": 3
+            "staff": "1047902991207903292",
+            "log": "1051165954912026676",
+            "limit": 1000
         },
         "jail": {
-            "staff": "JAİL YETKILISI ID",
-            "roles": "JAİLED ROL ID",
-            "log": "JAİL LOG ID",
-            "limit": 5
+            "staff": "1047901207341043772",
+            "roles": "1051163818014814299",
+            "log": "1051165539470413825",
+            "limit": 100000
         },
         "mute": {
-            "staff": "MUTE YETKILISI ID",
-            "roles": "MUTED ROL ID",
-            "log": "MUTE LOG ID",
-            "limit": 5
+            "staff": "1047899006493266081",
+            "roles": "1051163929964990614",
+            "log": "1051164993267183677",
+            "limit": 100000
         },
         "voicemute": {
-            "staff": "VOİCE MUTE YETKILISI ID",
-            "log": "VOİCE MUTE LOG ID",
-            "limit": 5
+            "staff": "1047899006493266081",
+            "log": "1051164993267183677",
+            "limit": 100000
         },
         "warn": {
-            "staff": "UYARI YETKILISI ID",
-            "log": "UYARI LOG ID"
+            "staff": "1047899006493266081",
+            "log": "1051166645848117248"
         },
         "transport": {
             "staff": "TAŞIYICI YETKILISI ID"
@@ -58,11 +58,11 @@
         "team": "TAGLI ROL ID"
     },
     "channels": {
-        "chat": "CHAT KANALI ID",
-        "voicechannel": "SES KANALI ID"
+        "chat": "1046841194409377832",
+        "voicechannel": "1046851106157908018"
     },
     "kategoriler": {
-        "publickategorisi": "PUBLİC KATEGORISI ID"
+        "publickategorisi": "1046846526854545438"
     },
     "registration": {
         "unregistered": "KAYITSIZ ROL ID",
@@ -74,9 +74,9 @@
         "GuildDiscrim": "SUNUCU ETİKET TAGI # OLMADAN YAZ (YOKSA BOŞ BIRAK)"
     },
     "Guild": {
-        "GuildID": "SUNUCU ID",
-        "GuilDName": "SUNUCU ADI",
-        "GuildOwnerRole": ["SUNUCU OWNER ROL 1", "SUNUCU OWNER ROL 2"]
+        "GuildID": "1046805923437486180",
+        "GuilDName": "Minecraft Türkiye",
+        "GuildOwnerRole": ["1051167441176240221", "SUNUCU OWNER ROL 2"]
     },
     "emojis": {
         "tada": "CEKİLİS EMOJİSİ ID",
